@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kacper Doga also known as @varev-dev.
 - 👀 I’m interested in back-end programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Spring.
 - 📫 Contact: doga.kacper@gmail.com
 
 <!---
