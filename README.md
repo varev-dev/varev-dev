@@ -1,16 +1,17 @@
-<h2>Technology Stack</h2>
-<h3>Programming Languages</h3>
-- Java
-- C++
-- JS
-- PHP
+##Technology Stack
 
-<h3>Frontend Development</h3>
+###Programming Languages
+- Java <br>
+- C++ <br>
+- JS <br>
+- PHP <br>
+
+Frontend Development
 - HTML
 - CSS / SCSS
 - Bootstrap
 
-<h3>Database</h3>
+Database
 - MySQL
 - MariaDB
 
@@ -19,5 +20,6 @@
 <h2>About Me</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=varev-dev&count_private=true&show_icons=true&theme=bear&hide_border=true)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varev-dev&theme=bear&hide_border=true)](https://git.io/streak-stats)
