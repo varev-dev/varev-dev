@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Kacper Doga</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 
@@ -7,7 +8,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varev-dev&show_icons=true&locale=en&layout=compact" alt="varev-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varev-dev&show_icons=true&locale=en" alt="varev-dev" /></p>
-<!---
-varev-dev/varev-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
