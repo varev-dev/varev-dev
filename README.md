@@ -5,10 +5,9 @@ I have been coding since 2017.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=varev-dev&count_private=true&show_icons=true&theme=bear&hide_border=true)
 
-
 ## Current projects
 I’m currently working on:
-- [Medical Office Website](https://github.com/varev-dev/ITM-SGL) (PHP, JS)
+- Medical Office Website (PHP, JS)
 - Console Metin2 (C++)
 - Library System (Java, Spring)
 
