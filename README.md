@@ -10,6 +10,7 @@ I’m currently working on:
 - Medical Office Website (PHP, JS)
 - Console Metin2 (C++)
 - Library System (Java, Spring)
+- Simple Dice Game (C++)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varev-dev&theme=bear&hide_border=true)](https://git.io/streak-stats)
 
