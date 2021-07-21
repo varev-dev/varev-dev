@@ -7,10 +7,7 @@ I have been coding since 2017.
 
 ## Current projects
 I’m currently working on:
-- Medical Office Website (PHP, JS)
-- Console Metin2 (C++)
-- Library System (Java, Spring)
-- Simple Dice Game (C++)
+- Medical Office Website (PHP, JS, SCSS, MariaDB)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varev-dev&theme=bear&hide_border=true)](https://git.io/streak-stats)
 
@@ -26,9 +23,5 @@ I’m currently working on:
 - HTML
 - CSS / SCSS
 - Bootstrap
-
-### Database
-- MySQL
-- MariaDB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varev-dev&layout=compact&theme=bear&langs_count=10&hide_border=true)
