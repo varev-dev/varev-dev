@@ -7,7 +7,7 @@ I have been coding since 2017.
 
 ## Current projects
 I’m currently working on:
-- Medical Office Website (PHP, JS, SCSS, MariaDB)
+- Control Expenses App
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varev-dev&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
@@ -16,8 +16,11 @@ I’m currently working on:
 ### Programming Languages
 - Java <br>
 - C++ <br>
-- JS <br>
+- JavaScript <br>
 - PHP <br>
+
+### Backend Development
+- Spring
 
 ### Frontend Development
 - HTML
