@@ -3,7 +3,7 @@
 I am 18 years old dev from Poland.
 I have been coding since 2017.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=varev-dev&count_private=true&show_icons=true&theme=dark&hide_border=true&title_color=01C2FF&icon_color=01A6DB&text_color=EAEAEA)
+![Stats](https://github-readme-stats.vercel.app/api?username=varev-dev&count_private=true&show_icons=true&theme=dark&hide_border=true&title_color=01C2FF&icon_color=01A6DB&text_color=EAEAEA&bg_color=0D1117)
 
 ## Current projects
 I’m currently working on:
