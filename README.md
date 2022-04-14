@@ -13,18 +13,11 @@ I’m currently working on:
 
 ## Technology Stack
 
-### Programming Languages
-- Java <br>
-- C++ <br>
-- JavaScript <br>
-- PHP <br>
-
 ### Backend Development
-- Spring
+- Spring (Java)
 
 ### Frontend Development
-- HTML
-- CSS / SCSS
-- Bootstrap
+- Vue
+- Tailwind
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varev-dev&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=01C2FF&icon_color=01A6DB&text_color=EAEAEA&bg_color=0D1117)
