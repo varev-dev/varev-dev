@@ -7,7 +7,8 @@ I have been coding since 2017.
 
 ## Current projects
 Preparing to work on:
-- Group/OneToOne Web Chat
+- Library System 
+- Group/OneToOne Web Chat [Inactive]
 
 ## Technology Stack
 
