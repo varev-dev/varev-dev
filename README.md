@@ -6,10 +6,7 @@ Coding since 2017 especially in Java.
 
 ## Current projects
 Preparing to work on/for:
-- Vocational Qualifying Exam INF. 04
 - Matura Exam
-- Library System [Inactive] 
-- Group/OneToOne Web Chat [Inactive]
 
 ## Technology Stack
 
