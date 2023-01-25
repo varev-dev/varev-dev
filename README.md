@@ -4,11 +4,12 @@ Coding since 2017 especially in Java.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varev-dev&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=005C7F&ring=01A6DB&fire=01C2FF&dates=0AB1DD)](https://git.io/streak-stats)
 
-## Current projects
-Preparing to work on/for:
+## *Focusing on:*
 - Matura Exam
+- Pharmacy QR
+- Group Web Chat
 
-## Using
+## *Tech Stack*
 
 <p>
   <img src="https://img.shields.io/badge/JAVA-bf7e15?style=for-the-badge" height="32px"/>
