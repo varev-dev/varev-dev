@@ -8,7 +8,7 @@ Coding since 2017 especially in Java.
 Preparing to work on/for:
 - Matura Exam
 
-## Technology Stack
+## Using
 
 <p>
   <img src="https://img.shields.io/badge/JAVA-bf7e15?style=for-the-badge" height="32px"/>
