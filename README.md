@@ -3,8 +3,8 @@
 Coding since 2017, Computer Science Student at the Gdańsk University Of Technology.
 
 ## Focusing on:
-- Freelance orders
-- Studying
+- Studying (GPA over 4.0)
+- [Test Forge](https://github.com/varev-dev/test-forge) - Platform to setup, execute tests via Google Test, and generate detailed reports with analyzed data.
 
 ## *Tech Stack*
 
