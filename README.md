@@ -3,8 +3,18 @@
 Pursuing a Bachelor of Science degree in Computer Science at Gdańsk University of Technology, with plans to enroll in the Systems track.
 Focusing on studying and deepening my knowledge in computer architecture, operating systems and concurrent processing.
 
-## Active Development
-- **[Test Forge](https://github.com/varev-dev/test-forge)** - An application to streamline the creation, execution, and reporting of C++ tests, providing detailed test result summaries.
+## Ongoing Projects
+- **[Test Forge](https://github.com/varev-dev/test-forge)** - An application to streamline the creation, execution, and reporting of C++ tests, providing detailed result summaries.
+- **[Chat Box](https://github.com/varev-dev/chat-box)** - A chat application with a client-server architecture that allows multiple clients to connect and communicate over TCP/IP.
+
+## Finished Projects
+- **[Virtual World GUI](https://github.com/varev-dev/virtual-world-gui)** - A desktop application featuring a turn-based simulation where organisms interact within a world of fixed size.
+- **[HEX](https://github.com/varev-dev/HEX)** - A game tool designed to enhance game understanding through board analysis, evaluating moves, and predicting outcomes.
+- **[RPN Generator](https://github.com/varev-dev/rpn-generator)** - A tool for generating expressions in Reverse Polish Notation and calculating the result if the input is well-formed.
+- **[Gallery](https://github.com/varev-dev/gallery)** - A web application to share and save images with customizable visibility, built-in watermarking and thumbnail generation.
+- **[Form Data Recovery](https://github.com/varev-dev/reusable-form-data)** - A tool designed to visualize and demonstrate the need for functionality that recover data from unsent form.
+- **[King Donkey](https://github.com/varev-dev/king-donkey)** - A Donkey Kong-inspired game where the player race through levels, avoiding dangers and reaching finish platform.
+- **[Backgammon](https://github.com/varev-dev/backgammon)** - An implementation of the game featuring additional functionalities like forced attacks and restore the game state.
 
 ## Technology Stack
 
