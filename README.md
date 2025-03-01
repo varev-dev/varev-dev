@@ -8,13 +8,13 @@ Focusing on studying and deepening knowledge in technology platforms, concurrent
 - **[Chat Box](https://github.com/varev-dev/chat-box)** - A chat application with a client-server architecture that allows multiple clients to communicate over TCP/IP layer.
 
 ## Finished Projects
-- **[Virtual World GUI](https://github.com/varev-dev/virtual-world-gui)** - A desktop application featuring a turn-based simulation where organisms interact within fixed size world.
-- **[HEX](https://github.com/varev-dev/HEX)** - A game tool designed to help game understanding through board analysis, evaluating moves, and predicting outcomes.
-- **[RPN Generator](https://github.com/varev-dev/rpn-generator)** - A tool for generating expressions in Reverse Polish Notation and calculating the result of well-formed input.
+- **[Virtual World GUI](https://github.com/varev-dev/virtual-world-gui)** - A desktop application featuring a turn-based simulation where organisms interact within dynamic world.
+- **[HEX](https://github.com/varev-dev/HEX)** - A game tool designed to help game understanding through board analysis, evaluating moves and outcome prediction.
+- **[RPN Generator](https://github.com/varev-dev/rpn-generator)** - A tool for generating expression in Reverse Polish Notation and calculating the result of well-formed input.
 - **[Gallery](https://github.com/varev-dev/gallery)** - A web app to share and save images with customizable visibility, built-in watermarking and thumbnail generation.
 - **[Form Data Recovery](https://github.com/varev-dev/reusable-form-data)** - A tool designed to visualize and demonstrate the need for functionality that recover data from forms.
 - **[King Donkey](https://github.com/varev-dev/king-donkey)** - A Donkey Kong-inspired game where the player race through levels, avoiding dangers and reaching finish.
-- **[Backgammon](https://github.com/varev-dev/backgammon)** - An implementation of the game with features like forced attacks and the option to replay saved game states.
+- **[Backgammon](https://github.com/varev-dev/backgammon)** - An implementation of the game with features like forced attacks and the option to replay saved game state.
 
 ## Technology Stack
 
