@@ -20,6 +20,7 @@ Focusing on studying and deepening knowledge in technology platforms, concurrent
 ### Java
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" height="32px"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6db33f?logo=Spring-Boot&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/JavaFX-4169E1?logo=&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/Swing-ff232f?logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/JUnit-2ca467?logo=&logoColor=white&style=for-the-badge" height="32px"/>
