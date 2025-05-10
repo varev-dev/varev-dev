@@ -4,10 +4,12 @@ Pursuing a Bachelor of Science degree in Computer Science at Gdańsk University 
 Focusing on studying and deepening knowledge in technology platforms, concurrent processing and clean architecture.
 
 ## Ongoing Projects
+- **[Collab Board](https://github.com/varev-dev/collaborative-whiteboard)** - Whiteboard application that allows users to draw and interact in real time on shared canvas.
+- **[Publication System](https://github.com/varev-dev/collaborative-whiteboard)** - RESTful service designed for a digital publishing platform, built with Spring Boot and Spring Security.
 - **[Chat Box](https://github.com/varev-dev/chat-box)** - A chat application with a client-server architecture that allows multiple clients to communicate over TCP/IP layer.
-- **[Test Forge](https://github.com/varev-dev/test-forge)** - An application to streamline the creation, execution, and reporting of C++ tests, providing detailed summaries.
+<!--- **[Test Forge](https://github.com/varev-dev/test-forge)** - An application to streamline the creation, execution, and reporting of C++ tests, providing detailed summaries.-->
 
-## Finished Projects
+<!--## Finished Projects
 - **[Virtual World GUI](https://github.com/varev-dev/virtual-world-gui)** - A desktop application featuring a turn-based simulation where organisms interact within dynamic world.
 - **[HEX](https://github.com/varev-dev/HEX)** - A game tool designed to help game understanding through board analysis, evaluating moves and outcome prediction.
 - **[RPN Generator](https://github.com/varev-dev/rpn-generator)** - A tool for generating expression in Reverse Polish Notation and calculating the result of well-formed input.
@@ -15,15 +17,15 @@ Focusing on studying and deepening knowledge in technology platforms, concurrent
 - **[Form Data Recovery](https://github.com/varev-dev/reusable-form-data)** - A tool designed to visualize and demonstrate the need for functionality that recover data from forms.
 - **[King Donkey](https://github.com/varev-dev/king-donkey)** - A Donkey Kong-inspired game where the player race through levels, avoiding dangers and reaching finish.
 - **[Backgammon](https://github.com/varev-dev/backgammon)** - An implementation of the game with features like forced attacks and the option to replay saved game state.
-
+-->
 ## Technology Stack
 ### Java
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/Spring Boot-6db33f?logo=Spring-Boot&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/JavaFX-4169E1?logo=&logoColor=white&style=for-the-badge" height="32px"/>
-  <img src="https://img.shields.io/badge/Swing-ff232f?logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/JUnit-2ca467?logo=&logoColor=white&style=for-the-badge" height="32px"/>
+  <img src="https://img.shields.io/badge/Mockito-2ca467?logo=&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/Maven-862e7a?logo=&logoColor=white&style=for-the-badge" height="32px"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-101010?logo=IntelliJIDEA&logoColor=white&style=for-the-badge" height="32px"/>
 </p>
