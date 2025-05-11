@@ -5,7 +5,7 @@ Focusing on studying and deepening knowledge in technology platforms, concurrent
 
 ## Ongoing Projects
 - **[Collab Board](https://github.com/varev-dev/collaborative-whiteboard)** - Whiteboard application that allows users to draw and interact in real time on shared canvas.
-- **[Publication System](https://github.com/varev-dev/collaborative-whiteboard)** - RESTful service designed for a digital publishing platform, built with Spring Boot and Spring Security.
+- **[Publication System](https://github.com/varev-dev/publication-system-api)** - RESTful service designed for a digital publishing platform, built with Spring Boot and Spring Security.
 - **[Chat Box](https://github.com/varev-dev/chat-box)** - A chat application with a client-server architecture that allows multiple clients to communicate over TCP/IP layer.
 <!--- **[Test Forge](https://github.com/varev-dev/test-forge)** - An application to streamline the creation, execution, and reporting of C++ tests, providing detailed summaries.-->
 
